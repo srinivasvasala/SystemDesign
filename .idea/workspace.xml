@@ -5,44 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3e954b-4db2-4f32-a798-c862b912ffda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/CashFreeProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/External/CashFreeApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/External/CashFreeStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/External/RazorPayStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/DarkButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/DarkButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/DarkRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/DarkRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/DarkThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/DarkThemeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/LightButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/LightButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/LightRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/LightRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/LightThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/LightThemeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/ScreenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/SimpleFactory/ScreenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/AbstractFactory/ThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/ThemeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/External/RazorPayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/External/RazorPayApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/External/RazorPayStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/PaymentProviderInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentProviderInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/PaymentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/PaymentStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Adapter_Design_Pattern/RazorPayProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/RazorPayProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/ButtonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/ButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/RoundButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/RoundButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/RoundButtonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/RoundButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/ScreenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/ScreenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/SquareButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/SquareButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/FactoryMethod/SquareButtonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/FactoryMethod/SquareButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/SimpleFactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/SimpleFactory/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/SimpleFactory/ButtonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/SimpleFactory/ButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/SimpleFactory/RoundButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/SimpleFactory/RoundButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/SimpleFactory/ScreenSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/AbstractFactory/ScreenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/srinivas/SimpleFactory/SquareButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/SimpleFactory/SquareButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/singleton_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/singleton_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentRequest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +46,10 @@
     &quot;accountId&quot;: &quot;105125bc-992d-49ae-8c46-f9596b733093&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -94,37 +65,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;OverrideImplement.combined&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vasal/IdeaProjects/SystemDesign&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Computer.executor": "Run",
+    "Application.design_patterns.adapter.design_pattern.Main.executor": "Run",
+    "Maven.SystemDesign [clean].executor": "Run",
+    "OverrideImplement.combined": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vasal/IdeaProjects/DSASesries",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.srinivas.AbstractFactory" />
       <recent name="org.srinivas.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Computer">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.Builder.Computer" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_patterns.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.srinivas_design_patterns.Builder.Main" />
       <module name="SystemDesign" />
@@ -151,8 +139,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="design_patterns.adapter.design_pattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.adapter.design_pattern.Main" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_patterns.adapter.design_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.design_patterns.adapter.design_pattern.Main" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Main" />
       </list>
@@ -161,8 +164,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.19533.56" />
-        <option value="bundled-js-predefined-d6986cc7102b-eef0733dfcaf-JavaScript-IU-242.19533.56" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -186,7 +189,42 @@
       <workItem from="1720026932075" duration="1032000" />
       <workItem from="1720027980770" duration="6470000" />
       <workItem from="1720035827096" duration="467000" />
-      <workItem from="1720036308739" duration="5127000" />
+      <workItem from="1720036308739" duration="7742000" />
+      <workItem from="1720096735702" duration="702000" />
+      <workItem from="1721123690618" duration="2541000" />
+      <workItem from="1721205318190" duration="934000" />
+      <workItem from="1721320827780" duration="593000" />
+      <workItem from="1721360373480" duration="1135000" />
+      <workItem from="1721382730475" duration="1355000" />
+      <workItem from="1721408316941" duration="158000" />
+      <workItem from="1721451378988" duration="49000" />
+      <workItem from="1721451446299" duration="656000" />
+      <workItem from="1721471883097" duration="596000" />
+      <workItem from="1721541703748" duration="1502000" />
+      <workItem from="1721670125826" duration="566000" />
+      <workItem from="1721729546748" duration="972000" />
+      <workItem from="1721730581089" duration="1278000" />
+      <workItem from="1722226896069" duration="1517000" />
+      <workItem from="1722228597601" duration="398000" />
+      <workItem from="1722235997802" duration="1008000" />
+      <workItem from="1722237060802" duration="1673000" />
+      <workItem from="1722238781344" duration="444000" />
+      <workItem from="1722239244560" duration="733000" />
+      <workItem from="1722331009113" duration="1445000" />
+      <workItem from="1722488686807" duration="2000000" />
+      <workItem from="1722923579634" duration="15000" />
+      <workItem from="1722949998893" duration="71000" />
+      <workItem from="1722950089725" duration="1448000" />
+      <workItem from="1726037484141" duration="643000" />
+      <workItem from="1726167372277" duration="36000" />
+      <workItem from="1728819326691" duration="184000" />
+      <workItem from="1728819536735" duration="1079000" />
+      <workItem from="1728968666491" duration="650000" />
+      <workItem from="1728978692032" duration="1246000" />
+      <workItem from="1729005463934" duration="1091000" />
+      <workItem from="1729163567748" duration="437000" />
+      <workItem from="1729268272214" duration="223000" />
+      <workItem from="1729268532384" duration="3064000" />
     </task>
     <servers />
   </component>
