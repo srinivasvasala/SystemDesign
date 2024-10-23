@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3e954b-4db2-4f32-a798-c862b912ffda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Iobserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/MobileAppObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/StockPricePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/LiveStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/VideoStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/WebAppObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Singleton/singleton_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Singleton/singleton_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design_patterns/adapter/design_pattern/PaymentRequest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +67,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2ghNzfvdc7CK2VcgRMVr1zVn8ou" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,6 +77,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Computer.executor": "Run",
+    "Application.design_patterns.Observer.Main.executor": "Run",
+    "Application.design_patterns.Observer.Video.Main.executor": "Run",
     "Application.design_patterns.adapter.design_pattern.Main.executor": "Run",
     "Maven.SystemDesign [clean].executor": "Run",
     "OverrideImplement.combined": "false",
@@ -94,12 +105,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="design_patterns.Observer" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.srinivas.AbstractFactory" />
       <recent name="org.srinivas.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Computer">
+  <component name="RunManager" selected="Application.design_patterns.Observer.Video.Main">
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design_patterns.Builder.Computer" />
       <module name="SystemDesign" />
@@ -113,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.srinivas_design_patterns.Builder.Main" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Runner" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.srinivas_design_patterns.Builder.*" />
+          <option name="PATTERN" value="Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.Runner" />
+    <configuration name="design_patterns.Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.Observer.Main" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="design_patterns.Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="design_patterns.Observer.Video.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.Observer.Video.Main" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_patterns.Observer.Video.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,10 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.design_patterns.Observer.Video.Main" />
+        <item itemvalue="Application.design_patterns.Observer.Main" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.design_patterns.adapter.design_pattern.Main" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +252,8 @@
       <workItem from="1729005463934" duration="1091000" />
       <workItem from="1729163567748" duration="437000" />
       <workItem from="1729268272214" duration="223000" />
-      <workItem from="1729268532384" duration="3064000" />
+      <workItem from="1729268532384" duration="3718000" />
+      <workItem from="1729698253050" duration="5843000" />
     </task>
     <servers />
   </component>
