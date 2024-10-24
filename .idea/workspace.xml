@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3e954b-4db2-4f32-a798-c862b912ffda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Iobserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/MobileAppObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/StockPricePublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/IObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/LiveStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/Video/VideoStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Observer/WebAppObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/NetflixProfile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Builder/NetflixProfile/NetflixProfile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Computer.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.design_patterns.Observer.Main.executor": "Run",
     "Application.design_patterns.Observer.Video.Main.executor": "Run",
     "Application.design_patterns.adapter.design_pattern.Main.executor": "Run",
@@ -113,7 +105,7 @@
       <recent name="org.srinivas.FactoryMethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.design_patterns.Observer.Video.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design_patterns.Builder.Computer" />
       <module name="SystemDesign" />
@@ -127,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.Runner" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_patterns.Builder.NetflixProfile.Main" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="design_patterns.Builder.NetflixProfile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.design_patterns.Observer.Video.Main" />
         <item itemvalue="Application.design_patterns.Observer.Main" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.design_patterns.adapter.design_pattern.Main" />
-        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +245,8 @@
       <workItem from="1729163567748" duration="437000" />
       <workItem from="1729268272214" duration="223000" />
       <workItem from="1729268532384" duration="3718000" />
-      <workItem from="1729698253050" duration="5843000" />
+      <workItem from="1729698253050" duration="7439000" />
+      <workItem from="1729771381750" duration="2405000" />
     </task>
     <servers />
   </component>
