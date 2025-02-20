@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3e954b-4db2-4f32-a798-c862b912ffda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/BankingFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/BusinessAccountFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/CurrentAccountFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/HDFCBankingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BankFactory/SavingAccountFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/PaymentAdapter/PaymentGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/PaymentAdapter/PaypalAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/PaymentAdapter/PaypayPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Prototype/NetflixPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Prototype/PlanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/Prototype/SubscriptionPlan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,7 +247,8 @@
       <workItem from="1729771381750" duration="3546000" />
       <workItem from="1729835920682" duration="136000" />
       <workItem from="1729844093882" duration="2929000" />
-      <workItem from="1729859482129" duration="3417000" />
+      <workItem from="1729859482129" duration="3884000" />
+      <workItem from="1730026560928" duration="17000" />
     </task>
     <servers />
   </component>
